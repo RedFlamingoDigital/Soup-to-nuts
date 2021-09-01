@@ -1,4 +1,3 @@
-# Soup-to-nuts
 Intro of intros
 Hi, we are REd Flaming Digital
 We are interested in creating beautiful online experiences for you and your clients.
